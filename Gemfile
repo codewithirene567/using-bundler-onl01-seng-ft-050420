@@ -7,3 +7,5 @@ gem "pry"
 end
 
 gem 'hashie'
+
+gem 'sinatra', '1.4.4'
