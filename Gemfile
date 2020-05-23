@@ -6,6 +6,6 @@ group :development do
 gem "pry"
 end
 
-gem 'hashie'
+gem "hashie"
 
-gem 'sinatra', '1.4.4'
+gem "sinatra", "1.4.4"
